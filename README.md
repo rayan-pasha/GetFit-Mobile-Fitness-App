@@ -25,3 +25,6 @@ GetFit is an Android Fitness App designed to help you track your fitness journey
 1. Clone the repository
 2. Open the project in Android Studio
 3. Build and run the app on your Android device or emulator
+
+![getfit](https://github.com/user-attachments/assets/9f330511-40b4-405e-8e47-ef25d56279b8)
+
